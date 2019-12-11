@@ -1,0 +1,4 @@
+git clone https://github.com/fullstacktraining/11ty-blog-jamstack-training.git
+git checkout module-1
+npm i
+npx @11ty/eleventy --serve
